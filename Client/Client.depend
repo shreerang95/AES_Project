@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1541621526 source:e:\asu\sem 1\ac\aes\client.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<winsock2.h>
+	"SBOX.h"
+
+1540079571 e:\asu\sem 1\ac\aes\sbox.h
+	<iostream>
+	<bits/stdc++.h>
+
+1544571689 source:e:\asu\sem 1\ac\client\client.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<winsock2.h>
+
+1544983688 source:e:\asu\sem 1\ac\project\client\client.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<winsock2.h>
+	<fstream>
+	"../AES/CBC.cpp"
+
+1544581696 e:\asu\sem 1\ac\project\aes\keygen.cpp
+	<Windows.h>
+	<Wincrypt.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1544983699 e:\asu\sem 1\ac\project\aes\cbc.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"AdvancedEncryptionStandard.cpp"
+
+1544983704 e:\asu\sem 1\ac\project\aes\advancedencryptionstandard.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"SBOX.h"
+
+1540079571 e:\asu\sem 1\ac\project\aes\sbox.h
+	<iostream>
+	<bits/stdc++.h>
+
